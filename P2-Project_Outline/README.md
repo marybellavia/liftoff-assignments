@@ -13,8 +13,7 @@ Foodoku will be a food/pantry management and meal planning web application. It w
 This project was motivated by a need for a better meal planning and organizational tool in my home. I have a filing system of printed recipes from my favorite websites at my house and I try to make a new recipe at least once a week. However, I often forget to add all the ingredients from my new recipe(s) to my grocery list. Also, I wish I could easily browse the recipes from my files for ones where I already have all the ingredients in my pantry. This web application would be useful for others interested in meal planning and pantry organization.
 
 ### Features
--- USER SIGNUP: Users will be able to create a new profile for themselves, allowing them to store their own pantry items and create personal meal plans.
--- USER LOGIN: Users will be able to log in to the application. Each user will have a custom homepage showing their current pantry.
+-- DISTINCT USERS: Users will be able to create a new profile for themselves, allowing them to store their own pantry items and create personal meal plans. Users will be able to log in to the application. Each user will have a custom homepage showing their current pantry.
 -- USER PANTRY: Allow a user to enter in food items into their pantry (possibly with quantities?).
 -- RECIPES: Contains database of recipes from 3 websites. User will be able to add their own custom recipes to recipe database.
 -- SEARCH: Users will be able to search recipes by ingredients.
@@ -28,9 +27,7 @@ Python
 SQLite
 HTML
 BootStrap
-JavaScript
-Razor?
-Microsoft.EntityFrameworkCore?
+JavaScript?
 
 ### What I'll Have to Learn
 -- Learn how to create a web application in C# that requires a user login.
