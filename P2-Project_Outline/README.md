@@ -23,7 +23,7 @@ This project was motivated by a need for a better meal planning and organization
 ### Technologies
 C#
 ASP.NET
-Python
+Python?
 SQLite
 HTML
 BootStrap
